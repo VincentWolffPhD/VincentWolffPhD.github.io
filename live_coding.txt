@@ -1,0 +1,28 @@
+1. Ins Projektverzeichnis wechseln (falls noch nicht dort):
+
+cd /workspaces/VincentWolffPhD.github.io
+
+
+
+2. (Optional) prüfen, ob LiveReload‑Port belegt ist:
+
+ss -ltnp | grep -E ":4000|:35729" || true
+
+
+
+3. Jekyll mit LiveReload starte
+
+bundle exec jekyll serve --livereload --host 0.0.0.0 --port 4000
+
+
+
+3.1 Falls LiveReload einen Port‑Konflikt verursacht, entweder Prozess beenden:
+    PID aus ss/lsof entnehmen, dann z.B.
+
+kill xxxx
+
+xxxxx = the PID number in users:(("bundle",pid=1697,fd=11))
+
+Seite im Host‑Browser öffnen:
+
+"$BROWSER" http://localhost:4000
