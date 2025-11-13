@@ -2,9 +2,9 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Vincent Wolff
     - name: Date of Birth
-      value: 14th March 1879
+      value: 1990
     - name: Languages
       value: English, German
 
@@ -13,7 +13,7 @@
   contents:
     - title: PhD
       institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      year: 2024
       description:
         - Description 1.
         - Description 2.

@@ -59,9 +59,13 @@ echo "Starte Jekyll: ${JEKYLL_CMD[*]}"
 "${JEKYLL_CMD[@]}" &
 JEKYLL_PID=$!
 
-trap 'echo "Beende Jekyll (pid $JEKYLL_PID) ..."; kill "$JEKYLL_PID" 2>/dev/null || true' EXIT INT TERM
-
+# URL definieren, bevor der Browser geöffnet wird
 URL="http://localhost:$SITE_PORT/"
+
+# Browser öffnen
+"$BROWSER" "$URL" >/dev/null 2>&1 || echo "Browser konnte nicht automatisch geöffnet werden. Bitte manuell öffnen: $URL"
+
+trap 'echo "Beende Jekyll (pid $JEKYLL_PID) ..."; kill "$JEKYLL_PID" 2>/dev/null || true' EXIT INT TERM
 
 # Warte bis Jekyll antwortet (Timeout 30s)
 echo "Warte auf $URL ..."
@@ -75,9 +79,6 @@ until curl -sSfL "$URL" >/dev/null 2>&1; do
     exit 1
   fi
 done
-
-echo "Öffne Browser: $URL"
-"$BROWSER" "$URL" >/dev/null 2>&1 || echo "Browser konnte nicht automatisch geöffnet werden. Bitte manuell öffnen: $URL"
 
 # Terminal an Jekyll übergeben (warten bis Prozess endet)
 wait "$JEKYLL_PID"

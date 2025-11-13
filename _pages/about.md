@@ -11,6 +11,7 @@ profile:
   more_info: >
     <p>Dr. Vincent Wolff</p>
     <p>University of Zurich</p>
+    <p>Switzerland</p>
     <p>vincentwolff@gmx.ch</p>
 
 # selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -30,9 +31,9 @@ social: true # includes social icons at the bottom of the page
 Financial market economist with a PhD in Finance from the University of Zurich. 
 
 My research and professional work focus on:
-- international financial markets
+- monetary policy 
+- international finance
 - market microstructure 
-- monetary policy, and 
 - causal financial econometrics
 
 

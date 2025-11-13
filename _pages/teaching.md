@@ -2,11 +2,50 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Course materials upon request.
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+| 2024 | Asset Pricing - Financial Derivatives and their Systemic Risks | University of Zurich |
+|      | Financial Sustainability, lecture | University of Zurich |
+|      | Financial Stability — lecture CAS, Centre for Development and Environment | University of Bern |
+|      | Investing Sustainably — lecture CAS, Centre for Development and Environment | University of Bern |
 
-Organize your courses by years, topics, or universities, however you like!
+<br>
+
+| 2023 | Asset Pricing - Financial Derivatives and their Systemic Risks | University of Zurich |
+|      | Financial Sustainability, lecture | University of Zurich |
+
+<br>
+
+| 2022 | Asset Pricing - Financial Derivatives and their Systemic Risks | University of Zurich |
+|      | Financial Sustainability, lecture | University of Zurich |
+
+
+<br>
+
+| 2021 | Asset Pricing - Financial Derivatives and their Systemic Risks | University of Zurich |
+|      | Financial Sustainability, lecture | University of Zurich |
+|      | Certified wealth management advisor — Portfolio Management | Swiss Finance Institute |
+|      | Certified wealth management advisor — Wealth Planning, Product Services, and Risk | Swiss Finance Institute |
+|      | Certified wealth management advisor — Risk Management | Swiss Finance Institute |
+
+
+<br>
+
+| 2020 | Asset Pricing - Financial Derivatives and their Systemic Risks | University of Zurich |
+|      | Certified wealth management advisor — Portfolio Management | Swiss Finance Institute |
+|      | Certified wealth management advisor — Wealth Planning, Product Services, and Risk | Swiss Finance Institute |
+|      | Certified wealth management advisor — Risk Management | Swiss Finance Institute |
+
+<br>
+
+| 2019 | Asset Pricing - Financial Derivatives and their Systemic Risks | University of Zurich |
+|      | Certified wealth management advisor — Portfolio Management | Swiss Finance Institute |
+|      | Certified wealth management advisor — Wealth Planning, Product Services, and Risk | Swiss Finance Institute |
+|      | Certified wealth management advisor — Risk Management | Swiss Finance Institute |
+
+<br>
+
+| 2018 | Asset Pricing - Financial Derivatives and their Systemic Risks | University of Zurich |
