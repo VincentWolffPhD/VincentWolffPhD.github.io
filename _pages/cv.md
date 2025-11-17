@@ -2,10 +2,14 @@
 layout: page
 permalink: /cv/
 title: cv
-description: Curriculum Vitae
+description: Academic curriculum vitae
 nav: true
 nav_order: 6
 ---
+
+----------------------------------------------------------------------------
+
+<br>
 
 ## Education
 
@@ -28,16 +32,48 @@ nav_order: 6
 
 ----------------------------------------------------------------------------
 
-## Academic work experience
+<br>
+
+## Experience
 
 <br>
 
 **Researcher** 
-- University of Zurich, Department of Finance, Chair of quantitative finance, September 2018 – August 2024
+- University of Zurich, Department of Finance, Chair of Quantitative Finance, September 2018 – August 2024
 - University of St. Gallen, Finance Department, Chair of Finance and Systemic Risk, March 2021 – September 2021
 - University of Zurich, Department of Finance, Center for Sustainable Finance and Private Wealth, June 2017 – August 2017
 
 **Lecturer** 
-- University of Bern, Centre for Development and Environment, certificate of advanced studies
-- University of Zurich, Department of Finance, Chair of quantitative finance, February 2018 – August 2024
+- University of Bern, Centre for Development and Environment, CAS, September 2024 - February 2025
+- University of Zurich, Department of Finance, Chair of Quantitative Finance, February 2018 – August 2024
 - Swiss Finance Institute, SFI, Certified Wealth Management Advisor, March 2019 – September 2022
+
+<br>
+
+----------------------------------------------------------------------------
+
+<br>
+
+## Honors and Awards
+
+<br>
+
+- Award for Excellence in Teaching, University of Zurich, 2023
+- Award winner Swiss Finance Institute best paper doctoral award, 2022
+
+<br>
+
+----------------------------------------------------------------------------
+
+<br>
+
+## Voluntary and Board Engagements
+
+<br>
+
+- Board member -- VSAO pension fund, April 2019 -- September 2022
+- President of the student association GISA at Geneva Graduate Institiute, IHEID
+
+<br>
+
+----------------------------------------------------------------------------
