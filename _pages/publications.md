@@ -25,6 +25,8 @@ Volume 65, December 2020, 101758
 
 We argue that incentives to take equity risk (”equity incentives”) only partially capture incentives to take asset risk (“asset incentives”). This is because leverage, while central to the theory of risk-shifting, is not explicitly considered by equity incentives. Employing measures of asset incentives that account for leverage, we find that asset risk-taking incentives can be large compared to incentives to increase firm value. Stock holdings can induce substantial risk-taking incentives, contrary to the assumption that only stock options drive risk-taking. Finally, asset incentives help explain asset risk-taking of U.S. financial institutions before the 2007/08 crisis.
 
+<br>
+
 [Spillovers to exchange rates from monetary and macroeconomic communications events](https://www.snb.ch/en/publications/research/working-papers/2020/working_paper_2020_18) — Vincent Wolff, [Enzo Rossi](https://cepr.org/about/people/enzo-rossi), Swiss National Bank Working Paper Series, 2020.
 
 We study the tightness of the link between U.S. monetary and macroeconomic communication events and the exchange rate movements against the USD of four major currencies - the euro, the Swiss franc, the Brazilian real and the Mexican peso - since the global financial crisis (GFC). We find three main results. Approximately 20 percent of the U.S. communications events were associated with statistically significant exchange rate effects. Unconventional and conventional monetary policy announcements had equal impacts. The reactions of the advanced countries' currencies were more in line with each another than with those of the emerging markets' currencies.
