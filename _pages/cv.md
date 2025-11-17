@@ -67,6 +67,34 @@ nav_order: 6
 
 <br>
 
+## Confrences and Seminars
+
+<br>
+
+- **2024**: Erasmus School of Economics, Rotterdam, University of Bern, Corvinus University of Budapest, Business
+Schoon Bern, BFH, University of Stavanger, UiS, Erasmus School of Economics, Erasmus University
+Rotterdam, ESE, Swiss Society of Economics and Statistics, Kof ETH, Universidad EAFIT Medellin,
+Swiss Finance Institute Conference, Study Centre Gerzensee, Universidad del Rosario Bogota, 2024
+Plato Market Innovator (MI3) Conference London
+
+- **2023**: University of Amsterdam, UvA, Instituto Tecnologico Autonomo de Mexico, ITAM, Brown Bag Lunch
+Seminar, University of Zurich
+
+- **2022**: Swiss National Bank Central Bankers course on Money Markets, Liquidity, and Payment Systems,
+Study Centre Gerzensee, Swiss Finance Institute Conference, Study Centre Gerzensee, Brown Bag
+Lunch Seminar, University of St. Gallen
+
+- **2021**: Conference on Financial Transaction Taxes, University of Copenhagen, Honorary doctorate seminar for
+Prof. Bruno Biais, HEC
+
+- **2020**: Brown Bag Lunch Seminar, University of Zurich, UZH, Swiss National Bank Seminar, SNB
+
+<br>
+
+----------------------------------------------------------------------------
+
+<br>
+
 ## Voluntary and Board Engagements
 
 <br>
