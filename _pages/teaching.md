@@ -24,17 +24,17 @@ nav_order: 5
     </tr>
     <tr>
       <td></td>
-      <td>Financial Sustainability (lecture)</td>
+      <td>Financial Sustainability</td>
       <td>University of Zurich</td>
     </tr>
     <tr>
       <td></td>
-      <td>Financial Stability (CAS lecture, CDE)</td>
+      <td>Financial Stability, CAS lecture, Centre for Development and Environment </td>
       <td>University of Bern</td>
     </tr>
     <tr class="year-separator">
       <td></td>
-      <td>Investing Sustainably (CAS lecture, CDE)</td>
+      <td>Investing Sustainably, CAS lecture, Centre for Development and Environment</td>
       <td>University of Bern</td>
     </tr>
 
@@ -46,7 +46,7 @@ nav_order: 5
     </tr>
     <tr class="year-separator">
       <td></td>
-      <td>Financial Sustainability (lecture)</td>
+      <td>Financial Sustainability</td>
       <td>University of Zurich</td>
     </tr>
 
@@ -58,7 +58,7 @@ nav_order: 5
     </tr>
     <tr class="year-separator">
       <td></td>
-      <td>Financial Sustainability (lecture)</td>
+      <td>Financial Sustainability</td>
       <td>University of Zurich</td>
     </tr>
 
@@ -70,7 +70,7 @@ nav_order: 5
     </tr>
     <tr>
       <td></td>
-      <td>Financial Sustainability (lecture)</td>
+      <td>Financial Sustainability</td>
       <td>University of Zurich</td>
     </tr>
     <tr>
