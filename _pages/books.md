@@ -52,8 +52,7 @@ JEL Classification: G10, E52
 Vincent Wolff, 
 [Luca Gaeaguf](https://app.9am.works/talent/luca-gaegauf)
 
-We are the first to reveal the causal
-effect of trading costs on stock prices. Price reactions arise from both a direct effect and changes
+What are the causal effects of changing trading costs on prices? Price reactions arise from both a direct effect and changes
 in the stock’s liquidity. The direct impact on prices from trading costs is derived by keeping the
 expected returns net of these costs consistent. The liquidity effect operates through the liquidity
 risk channel on prices. A decline in a stock’s liquidity diminishes not only its current price but also
