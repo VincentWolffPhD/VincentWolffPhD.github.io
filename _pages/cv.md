@@ -68,6 +68,18 @@ nav_order: 6
 
 <br>
 
+## Affiliations 
+
+<br>
+
+- The Competence Center of Sustainability: Finance, Law, Sciences, and the Humanities, University of Zurich
+- Department of Finance, University of Zurich
+<br>
+
+----------------------------------------------------------------------------
+
+<br>
+
 ## Confrences and Seminars
 
 <br>
