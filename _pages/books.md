@@ -63,7 +63,7 @@ prices by 0.96% – 1.3%, whereas halving the tick size increases stock prices b
 evidence of strategic stock price manipulation to increase gains from trade, coupled with behavioral
 price dynamics stemming from quote and price clustering.
 
-**Keywords**: Causal financial econometrics, tick size, trading cost, liquidityWenn 
+**Keywords**: Causal financial econometrics, tick size, trading cost, liquidity
 
 <br>
 
@@ -81,7 +81,7 @@ we focus on financial institutions during crisis periods. We derive closed-form 
 estimate market expectations regarding short-term deposit outflows, fire sales, interest rate shocks,
 and default probabilities on a daily basis. 
 
-**Keywords**: Banking, bankruptcy, balance sheet dynamics, liquidity, nowcastin
+**Keywords**: Banking, bankruptcy, balance sheet dynamics, liquidity, nowcasting
 
 <br>
 
@@ -103,7 +103,7 @@ Further, we are the first who open the black box of payments and estimate wholes
 and internalized payments in France and Switzerland. We document a conservative annual payment
 volume on the order of 80 to 100 times the country’s GDP.
 
-**Keywords**: Optimal taxation, payments, liquidity, welfar
+**Keywords**: Optimal taxation, payments, liquidity, welfare
 
 <br>
 
