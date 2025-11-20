@@ -7,45 +7,137 @@ nav: true
 nav_order: 5
 ---
 
-| 2024 | Asset Pricing - Financial Derivatives and their Systemic Risks | University of Zurich |
-|      | Financial Sustainability, lecture | University of Zurich |
-|      | Financial Stability — lecture CAS, Centre for Development and Environment | University of Bern |
-|      | Investing Sustainably — lecture CAS, Centre for Development and Environment | University of Bern |
+<p></p>
 
-<br>
+<table class="teaching-table">
+  <colgroup>
+    <col>
+    <col>
+    <col>
+  </colgroup>
+  <tbody>
+    <!-- 2024 -->
+    <tr>
+      <td>2024</td>
+      <td>Asset Pricing – Financial Derivatives and their Systemic Risks</td>
+      <td>University of Zurich</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Financial Sustainability (lecture)</td>
+      <td>University of Zurich</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Financial Stability (CAS lecture, CDE)</td>
+      <td>University of Bern</td>
+    </tr>
+    <tr class="year-separator">
+      <td></td>
+      <td>Investing Sustainably (CAS lecture, CDE)</td>
+      <td>University of Bern</td>
+    </tr>
 
-| 2023 | Asset Pricing - Financial Derivatives and their Systemic Risks | University of Zurich |
-|      | Financial Sustainability, lecture | University of Zurich |
+    <!-- 2023 -->
+    <tr>
+      <td>2023</td>
+      <td>Asset Pricing – Financial Derivatives and their Systemic Risks</td>
+      <td>University of Zurich</td>
+    </tr>
+    <tr class="year-separator">
+      <td></td>
+      <td>Financial Sustainability (lecture)</td>
+      <td>University of Zurich</td>
+    </tr>
 
-<br>
+    <!-- 2022 -->
+    <tr>
+      <td>2022</td>
+      <td>Asset Pricing – Financial Derivatives and their Systemic Risks</td>
+      <td>University of Zurich</td>
+    </tr>
+    <tr class="year-separator">
+      <td></td>
+      <td>Financial Sustainability (lecture)</td>
+      <td>University of Zurich</td>
+    </tr>
 
-| 2022 | Asset Pricing - Financial Derivatives and their Systemic Risks | University of Zurich |
-|      | Financial Sustainability, lecture | University of Zurich |
+    <!-- 2021 -->
+    <tr>
+      <td>2021</td>
+      <td>Asset Pricing – Financial Derivatives and their Systemic Risks</td>
+      <td>University of Zurich</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Financial Sustainability (lecture)</td>
+      <td>University of Zurich</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Certified Wealth Management Advisor – Portfolio Management</td>
+      <td>Swiss Finance Institute</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Certified Wealth Management Advisor – Wealth Planning, Product Services, and Risk</td>
+      <td>Swiss Finance Institute</td>
+    </tr>
+    <tr class="year-separator">
+      <td></td>
+      <td>Certified Wealth Management Advisor – Risk Management</td>
+      <td>Swiss Finance Institute</td>
+    </tr>
 
+    <!-- 2020 -->
+    <tr>
+      <td>2020</td>
+      <td>Asset Pricing – Financial Derivatives and their Systemic Risks</td>
+      <td>University of Zurich</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Certified Wealth Management Advisor – Portfolio Management</td>
+      <td>Swiss Finance Institute</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Certified Wealth Management Advisor – Wealth Planning, Product Services, and Risk</td>
+      <td>Swiss Finance Institute</td>
+    </tr>
+    <tr class="year-separator">
+      <td></td>
+      <td>Certified Wealth Management Advisor – Risk Management</td>
+      <td>Swiss Finance Institute</td>
+    </tr>
 
-<br>
+    <!-- 2019 -->
+    <tr>
+      <td>2019</td>
+      <td>Asset Pricing – Financial Derivatives and their Systemic Risks</td>
+      <td>University of Zurich</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Certified Wealth Management Advisor – Portfolio Management</td>
+      <td>Swiss Finance Institute</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Certified Wealth Management Advisor – Wealth Planning, Product Services, and Risk</td>
+      <td>Swiss Finance Institute</td>
+    </tr>
+    <tr class="year-separator">
+      <td></td>
+      <td>Certified Wealth Management Advisor – Risk Management</td>
+      <td>Swiss Finance Institute</td>
+    </tr>
 
-| 2021 | Asset Pricing - Financial Derivatives and their Systemic Risks | University of Zurich |
-|      | Financial Sustainability, lecture | University of Zurich |
-|      | Certified wealth management advisor — Portfolio Management | Swiss Finance Institute |
-|      | Certified wealth management advisor — Wealth Planning, Product Services, and Risk | Swiss Finance Institute |
-|      | Certified wealth management advisor — Risk Management | Swiss Finance Institute |
-
-
-<br>
-
-| 2020 | Asset Pricing - Financial Derivatives and their Systemic Risks | University of Zurich |
-|      | Certified wealth management advisor — Portfolio Management | Swiss Finance Institute |
-|      | Certified wealth management advisor — Wealth Planning, Product Services, and Risk | Swiss Finance Institute |
-|      | Certified wealth management advisor — Risk Management | Swiss Finance Institute |
-
-<br>
-
-| 2019 | Asset Pricing - Financial Derivatives and their Systemic Risks | University of Zurich |
-|      | Certified wealth management advisor — Portfolio Management | Swiss Finance Institute |
-|      | Certified wealth management advisor — Wealth Planning, Product Services, and Risk | Swiss Finance Institute |
-|      | Certified wealth management advisor — Risk Management | Swiss Finance Institute |
-
-<br>
-
-| 2018 | Asset Pricing - Financial Derivatives and their Systemic Risks | University of Zurich |
+    <!-- 2018 -->
+    <tr>
+      <td>2018</td>
+      <td>Asset Pricing – Financial Derivatives and their Systemic Risks</td>
+      <td>University of Zurich</td>
+    </tr>
+  </tbody>
+</table>

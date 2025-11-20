@@ -23,3 +23,27 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+/* Teaching table layout */
+.teaching-table {
+  width: auto;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+}
+.teaching-table col:nth-child(1) { width: 2cm; }
+.teaching-table col:nth-child(2) { width: 15cm; }
+.teaching-table col:nth-child(3) { width: 10cm; }
+.teaching-table td {
+  padding: 4px 6px;
+  vertical-align: top;
+  line-height: 1.25;
+}
+/* Normale Zeilen */
+.teaching-table td { padding: 4px 6px; }
+
+/* Letzte Zeile eines Blocks bleibt normal */
+.teaching-table tr.year-separator td { padding-bottom: 10px; }
+
+/* Erste Zeile des nächsten Blocks: zusätzlicher Abstand oben */
+.teaching-table tr.year-separator + tr td { padding-top: 30px; }
+.teaching-table td:first-child { font-weight: 600; }
